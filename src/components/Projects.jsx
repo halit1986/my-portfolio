@@ -19,6 +19,16 @@ const Projects = () => {
           the Trendyol e-commerce site using HTML, CSS, JavaScript, and MySQL.
         </p>
       </div>
+      <div className="card">
+        <h2>My Portfolio</h2>
+        <p>
+          My Portfolio is a personal portfolio website developed to showcase my
+          projects and skills. This project aims to provide a user-friendly and
+          stylish interface using modern web technologies. Built with
+          React.js,My Portfolio offers an excellent user experience across all
+          devices thanks to its responsive design.
+        </p>
+      </div>
     </div>
   );
 };

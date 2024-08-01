@@ -5,11 +5,12 @@ const About = () => {
     <div className="container">
       <h1>About Me</h1>
       <p>
-        I am Halit Doksal, a dynamic and self-motivated Fullstack Software
-        Developer. I have strong skills in HTML5, CSS3, JavaScript, React, and
-        Node.js. After graduating from Anadolu University with a degree in
-        Business Administration, I have advanced my technical expertise through
-        various software development courses and certification programs.
+        A dynamic and self-motivated Frontend Developer with strong skills in
+        HTML5, CSS3, JavaScript, and React. I hold a degree in Business
+        Administration from Anadolu University and have advanced my technical
+        expertise through various software development courses and certification
+        programs. Passionate about technology and innovation, I am committed to
+        continuous learning and self-improvement.
       </p>
       <h2>Education</h2>
       <ul>
@@ -27,14 +28,17 @@ const About = () => {
       <h2>Technical Skills</h2>
       <ul>
         <li>
-          <strong>Frontend:</strong> HTML5, CSS3, Bootstrap, JavaScript, jQuery,
-          React
+          <strong>Frontend:</strong> HTML5, CSS3, Tailwind CSS, JavaScript,
+          React.js, TypeScript, Bootstrap, jQuery,
+        </li>
+        <li>
+          <strong>Tools:</strong> Git, GitHub, Visual Studio Code
         </li>
         <li>
           <strong>Backend:</strong> Node.js, Express.js
         </li>
         <li>
-          <strong>Database:</strong> MongoDB, Compass, MySQL
+          <strong>Database:</strong> MongoDB, MySQL
         </li>
       </ul>
       <h2>Interests</h2>
