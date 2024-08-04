@@ -10,14 +10,14 @@ const Home = () => {
         some of the key projects I have worked on.
       </p>
       <div className="card">
-        <h2>Nutrify-Fresh</h2>
+        <h2>NutrifyFresh</h2>
         <p>
           A nutrition tracking application.This project allows users to monitor
           their daily nutritional needs through a user-friendly platform.
         </p>
       </div>
       <div className="card">
-        <h2>My Portfolio</h2>
+        <h2>MyPortfolio</h2>
         <p>
           MyPortfolio is a personal portfolio website developed to showcase my
           projects and skills. This project aims to provide a user-friendly and
