@@ -29,9 +29,6 @@ const Contact = () => {
           <strong>Email:</strong> dkshlt47@gmail.com
         </li>
         <li>
-          <strong>Phone:</strong> 443-410-6656
-        </li>
-        <li>
           <strong>LinkedIn:</strong>{" "}
           <a
             href="https://www.linkedin.com/in/halit-doksal"
