@@ -23,7 +23,7 @@ const Contact = () => {
   return (
     <div className="container">
       <h1>Contact</h1>
-      <p>You can reach me via email or phone:</p>
+      <p>You can reach me via email</p>
       <ul>
         <li>
           <strong>Email:</strong> dkshlt47@gmail.com
